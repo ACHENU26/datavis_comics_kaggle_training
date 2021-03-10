@@ -41,7 +41,7 @@ Variable | Definition
 ## Usefull links 
 - [kaggle](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-comic-characters-dataset)
 
-## Copyright Kaizen Members
+## Copyright Members
 - [Axel CHENU](https://gitlab.com/ACHENU26) 
 
 **License**
